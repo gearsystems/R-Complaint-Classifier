@@ -11,7 +11,7 @@
 
 @gearsystems water is not available in k
 
-@gearsystems health care not proper
+@gearsystems hot water supplyy in DASA block is not proper
 
 @gearsystems street light damaged at hyderabad near busstand
 
